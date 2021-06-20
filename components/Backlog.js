@@ -84,7 +84,7 @@ function Backlog() {
               </div>
               <div className="flex justify-center items-center">
                 <p className="text-sm ring ring-gray-200 text-gray-500 bg-white shadow rounded px-1 ">
-                  +1
+                  +2
                 </p>
               </div>
             </div>
